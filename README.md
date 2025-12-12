@@ -3,7 +3,8 @@
 An intelligent three-panel collaboration workspace powered by **DeepSeek-V3.1** with advanced reasoning capabilities. ZeroTouch bridges communication gaps between customers and service providers by translating raw requests into actionable solutions, generating intelligent follow-ups, and streamlining response workflows.
 
 
-https://github.com/user-attachments/assets/d105713f-621c-4d65-955c-d46a27ce101b
+https://github.com/user-attachments/assets/ac188df6-b131-4c19-a73d-aea74c241ef5
+
 
 
 ## Overview
